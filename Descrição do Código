@@ -23,4 +23,3 @@ Este repositório contém um conjunto de instruções SQL que cria várias views
 ## Uso
 
 Para utilizar as views criadas, basta executar o script `criar_views.sql` em um ambiente de banco de dados compatível. As views estarão disponíveis para consulta e análise dos dados.
-
